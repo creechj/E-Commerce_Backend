@@ -9,7 +9,7 @@ Express.js API application that uses Sequilize to interact with a simple e-comme
 
 Application is interacted with via Insomnia (or other API-capable interface).
 
-A schema is provided for creating the database, as well as seed data for each table, and an executable script for seeding the tables with this data.
+A schema is provided for creating the database, as well as seed data for each table, and an executable script for seeding the tables with this data (use: 'npm run seed').
 
 Routes are available for categories, products, and tags.
 
@@ -26,8 +26,7 @@ https://github.com/creechj/E-Commerce_Backend
 
 Video of usage:  
 
-
-
+https://drive.google.com/file/d/1qtF4RzTgpTOVPDOMXbyrIMj5umi7F24D/view
 
 
 ![Screenshot of Application](./assets/E-Commerce_Database_Screenshot.png)
